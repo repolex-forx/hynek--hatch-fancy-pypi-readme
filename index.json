@@ -1,0 +1,11 @@
+{
+  "org": "hynek",
+  "repo": "hatch-fancy-pypi-readme",
+  "versions": [
+    {
+      "commit": "fcf9bc6f7f28d4f13f8c9d8d04b8bc005d4e2de3",
+      "tag": "",
+      "parsed_at": "2026-10-19T13:28:26.260100+00:00"
+    }
+  ]
+}
