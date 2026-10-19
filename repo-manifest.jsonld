@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/hynek/hatch-fancy-pypi-readme/commit/fcf9bc6f7f28d4f13f8c9d8d04b8bc005d4e2de3",
       "git:hexsha": "fcf9bc6f7f28d4f13f8c9d8d04b8bc005d4e2de3",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/hynek/hatch-fancy-pypi-readme/commit/fc136e5bf4626c68d4b2d2e7ca6501f8404ccf94",
